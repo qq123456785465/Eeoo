@@ -1,4 +1,4 @@
-  @charset "utf-8"
+
 
 body{
     background-color: beige;
@@ -29,4 +29,7 @@ h2{
     border: 1px dotted #94c8b1;
     border-left: 10px solid #d0e35b;
     color: #6fbb9a;
+}
+.h2{
+    color: red;
 }
