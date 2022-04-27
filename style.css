@@ -1,7 +1,14 @@
+@import url(normalize.css)
+
 body{
     background-color: aqua;
     color: blue;
 }
 h1{
     color: green;
+}
+#container{
+    width: 980px;
+    background-color: lightpink;
+    margin:0px auto;
 }
