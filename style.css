@@ -1,14 +1,32 @@
-@import url(normalize.css)
+  @charset "utf-8"
 
 body{
-    background-color: aqua;
-    color: blue;
+    background-color: beige;
+    color: blueviolet;
+    margin:0px;
 }
 h1{
-    color: green;
+    width: 300px;
+    margin: 40px auto;
+    padding: 30px;
+    border: 5px solod #95dbdb;
+    background-color: #6fbb9a;
+    color: #fff;
+    font-size: 300%;
+    text-align: center;
+    line-height: 1;
 }
 #container{
     width: 980px;
-    background-color: lightpink;
+    background-color: rgb(255, 25, 255);
     margin:0px auto;
+    padding: 40px 80px;
+    border: 1px solid #f6bb9e;
+}
+h2{
+    padding: 10px;
+    margin-bottom: 30px;
+    border: 1px dotted #94c8b1;
+    border-left: 10px solid #d0e35b;
+    color: #6fbb9a;
 }
