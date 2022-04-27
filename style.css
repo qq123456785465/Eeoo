@@ -16,7 +16,7 @@ h1{
     text-align: center;
     line-height: 1;
 }
-#container{
+main{
     width: 980px;
     background-color: rgb(255, 251, 255);
     margin:0px auto;
