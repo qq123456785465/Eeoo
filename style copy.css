@@ -26,9 +26,9 @@ main{
 h2{
     padding: 10px;
     margin-bottom: 30px;
-    border: 1px dotted #94c8b1;
+    border: 1px dotted #1e025f;
     border-left: 10px solid #d0e35b;
-    color: #6fbb9a;
+    color: #0745b9;
 }
 .round{
     border-radius: 50%;
