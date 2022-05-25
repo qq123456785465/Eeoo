@@ -2,14 +2,13 @@ body{
     background-color: aqua;
 }
 #container{
-    width: 680px;
+    width:680px;
     background-color: aquamarine;
-    margin: 0px auto;
-    padding: 10px 20px;
+    margin:0px auto;
+    padding:10px 20px;
 }
 h1,body{
-    margin: 0px;
-
+    margin:0px;
 }
 header{
     text-align: center;
